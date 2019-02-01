@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="SSM" type="spring-mvc">
+    <CLASSES>
+      <root url="file://E:/mydata/jar/ssm-integrate" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://E:/mydata/jar/ssm-integrate" recursive="false" />
+  </library>
+</component>
